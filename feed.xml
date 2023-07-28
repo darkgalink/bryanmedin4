@@ -3,10 +3,23 @@
     <title>Bryanmedin4.com</title>
     <link href="https://bryanmedin4.com/feed.xml" rel="self" />
     <link href="https://bryanmedin4.com" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2023-07-28T10:56:24-05:00</updated>
     <author>
         <name>Bryanmedin4</name>
     </author>
     <id>https://bryanmedin4.com</id>
 
+    <entry>
+        <title>Bryan Medin4</title>
+        <author>
+            <name>Bryanmedin4</name>
+        </author>
+        <link href="https://bryanmedin4.com/bryan-medin4/"/>
+        <id>https://bryanmedin4.com/bryan-medin4/</id>
+        <media:content url="https://bryanmedin4.com/media/posts/1/Foto2-1080.png" medium="image" />
+
+        <updated>2023-07-28T10:56:24-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
