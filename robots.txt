@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bryanmedin4.com/sitemap.xml
