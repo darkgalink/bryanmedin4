@@ -34,3 +34,19 @@ transform: scaleX(-1);
     border-color: #ffed00 !important;
     color: black !important;
 }
+/*efectos*/
+  .canvasMatrix {
+    width: 100%;
+    display: flex;
+    position: absolute;
+    top: 0; left: 0;
+    z-index: -2000!important;
+    
+  }
+/*fin efectos*/
+#portada{
+    background-color: rgba(255, 255, 255, 0.8);
+}
+#clientes{
+    background-color: rgba(255, 255, 255, 0.8);
+}
