@@ -1,0 +1,36 @@
+#encabezado{
+    padding-top: 1px;
+}
+#menu {
+background-color: rgba(255, 255, 255, 0.96);
+border-color: #fff;
+border-radius: 100px;
+border-style: solid;
+margin-top: 10px;
+height: 70px;
+display: flexbox;
+align-items: center;
+}
+#menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.logo {
+    width: 60px;
+    transition: transform 0.5s;
+}
+
+.logo:hover {
+    transform: scale(1.5);
+}
+.leon {
+width: 70%;
+transform: scaleX(-1);
+}
+.btn-primary{
+    background-color: #ffed00 !important;
+    border-color: #ffed00 !important;
+    color: black !important;
+}
